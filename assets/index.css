@@ -211,7 +211,8 @@ ul.portfolio {
  * Links
  */
 
-a {
+a,
+.link-twitter {
     color: var(--color-fg-link);
 }
 
